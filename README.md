@@ -1,6 +1,7 @@
 # him_or_her
 
-A new Flutter project.
+An android app to predict gender by name.
+Build in flutter with API.
 
 ## Getting Started
 
